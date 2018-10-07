@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPX Sender</string>
+    <string name="connecting">Anschließen</string>
+    <string name="enter_route">Geben Sie Routennamen</string>
+    <string name="choose_gpx">Wählen Sie GPX-Datei</string>
+    <string name="send">Senden</string>
+    <string name="seek_and_connect">Verbinden</string>
+    <string name="cancel">Stornieren</string>
+    <string name="cancelAll">Alle Absagen</string>
+    <string name="helpText">" <![CDATA[ <b>This is a companion app for Samsung Gear App \"GPX Route Tracker\". This companion app is used to transfer a GPX file from your phone to your Gear watch.</b><br/><br/> Details of the "GPX Route Tracker" app can be found below: <br/> <a href="https://sites.google.com/site/gpxroutetracker/">https://sites.google.com/site/gpxroutetracker/</a><br><br><br> <h2>Instructions:</h2><br/> <h3>Step 1 - On your watch:</h3><br/> 1a. Launch GPX Route Tracker<br/> 1b. Click on ... (Settings) -> Add Route -> New<br/> 1c. Click \'Send from Phone\'<br/><br/> <h3>Step 2 - On your phone:</h3><br/> 2a. Click \'Connect\' button if it is not already Connected<br/> 2b. Enter Route Name<br/> 2c. Click \'Choose GPX File\'<br/> 2d. Click \'Send\'<br/><br/> <h3>Step 3 - Go back to your watch:</h3><br/> 3a. Click \'Save\' ]]> "</string>
+    <string name="connected">In Verbindung gebracht</string>
+    <string name="exit">Ausgang</string>
+</resources>
